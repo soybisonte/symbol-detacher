@@ -6,4 +6,6 @@
 - Un-zip
 - Double-click on symdetacher.sketchplugin
 
+## How to use
 
+  Select instances of a symbol or the symbols themself you wanna detach, go to plugins -> SymDetacher -> detacher, done.
