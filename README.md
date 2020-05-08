@@ -1,4 +1,5 @@
 # SymDetacher
+Detach from its master the selected symbols instances, transforming them into a group without touch any instance inside, e.g. only for the first nesting level.
 
 <img width="535" src="https://github.com/soybisonte/symbol-detacher/blob/master/assets/detach.gif?raw=true">
 
