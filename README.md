@@ -1,5 +1,7 @@
 # SymDetacher
 
+[preview]: https://github.com/soybisonte/symbol-detacher/assets/detach.gif "Preview"
+
 ## Installation
 
 - [Download](https://github.com/soybisonte/symbol-detacher/releases/download/v2.0.0/symdetacher.sketchplugin.zip) the latest release of the plugin
