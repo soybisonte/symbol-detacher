@@ -1,6 +1,6 @@
 # SymDetacher
 
-[preview]: https://github.com/soybisonte/symbol-detacher/assets/detach.gif "Preview"
+<img width="535" src="https://github.com/soybisonte/symbol-detacher/blob/master/assets/detach.gif?raw=true">
 
 ## Installation
 
